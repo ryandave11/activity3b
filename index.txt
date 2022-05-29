@@ -1,0 +1,53 @@
+<html>
+
+<head>
+<title>My Literature 1 </title>
+
+</head>
+<body style="background: url(https://i.pinimg.com/564x/9b/ea/a1/9beaa144514875e11f79cb9fb2e47b33.jpg); background-size: 60% 130%; background-repeat:no-repeat; background-position:center">
+
+</br>
+</br>
+<center><h1>A State of Mind</h1></center>
+<center><h4>by AWalter D. Wintle</h4></center>
+<center><p style="font-family:courier; line-height:1.5; font-size:18px" margin-right>
+<span>If you think you are beaten, your are </span></br>
+<span>If you think you dare not, you won't, </span></br>
+<span style="margin-left:3.6em">If you like to win, but don't think you can </span></br>
+<span style="margin-right:4.8em">It's almost a cinch you won't <span></br>
+</p><center>
+<center><p style="font-family:courier; line-height:1.5; font-size:18px" margin-right>
+<span>If you think you'll lose, you're lost</span></br>
+<span style="margin-right:2.4em">For out in the world you'll find,</span></br>
+<span style="margin-right:1.2em">Success begins with a fellow's will</span></br>
+<span style="margin-right:6em">It's all in a state of mind<span></br>
+</p><center>
+<center><p style="font-family:courier; line-height:1.5; font-size:18px" margin-right>
+<span style="margin-right:2em">Think big and your deeds will grow</span></br>
+<span style="margin-right:2em">Think small and you'll fall behind</span></br>
+<span style="margin-right:3.8em">Think that you can and you will</span></br>
+<span style="margin-right:8em">It's all a state of mind<span></br>
+</p><center>
+</p><center>
+<center><p style="font-family:courier; line-height:1.5; font-size:18px" margin-right>
+<span style="margin-right:8.8em">For many a game is lost</span></br>
+<span style="margin-right:8.8em">Ere even a play is run,</span></br>
+<span style="margin-right:8.8em">And many a coward fails</span></br>
+<span style="margin-right:7em">Ere even his work is begun<span></br>
+</p><center>
+<center><p style="font-family:courier; line-height:1.5; font-size:18px" margin-right>
+<span style="margin-left:2.5em">If you think you are out-classed, your are</span></br>
+<span style="margin-right:3.5em">You've got to think high to rise</span></br>
+<span style="margin-left:1.3em">You've got to be sure of yourself before</span></br>
+<span style="margin-right:8.3em">You can ever win a prize<span></br>
+</p><center>
+<center><p style="font-family:courier; line-height:1.5; font-size:18px" margin-right>
+<span style="margin-right:6em">Life battles don't always go</span></br>
+<span style="margin-right:5.4em">To the stronger or faster man</span></br>
+<span style="margin-right:0.6em">But sooner or later, the man who wins</span></br>
+<span style="margin-right:4.3em">Is the fellow who thinks he can<span></br>
+</p><center>
+</br>
+</br>
+</body>
+</html>
